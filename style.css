@@ -1,0 +1,39 @@
+body{
+    background-color: #BAD7E9;
+    text-align: center;
+    margin: 15%;
+    font-family: 'Nunito', sans-serif;
+    
+}
+img{
+    width: 290px;
+    height: 290px;
+    border-radius: 10%;
+    
+}
+.qr-holder{
+    box-shadow: 0 5px 10px 0  #9cabb4;
+    margin: 0 auto;
+    background-color: #EDF1D6;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+h2{
+    font-size: 20px;
+    margin: 0 auto;
+    width: 270px;
+    font-weight: 500;
+    padding: 10px;
+    text-align: center;
+    
+}
+p{
+    font-weight: 200;
+    margin: 0 auto;
+    width: 240px;
+    padding: 10px;
+    font-size: 15px;
+}
